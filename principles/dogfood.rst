@@ -3,7 +3,7 @@ Dogfooding
 
 **Consume your API for your online services**
 
-Agencies that publish APIs must use their own APIs for the providing the equivalent online service. By consuming your own API you will ensure that your API (wholesale) service:
+Agencies that publish APIs must use their own APIs for providing the equivalent online service. By consuming your own API you will ensure that your API (wholesale) service:
 
  * remains aligned with your online (retail) service
  * maintains at least the same availability level as your online (retail) service.
