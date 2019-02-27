@@ -8,7 +8,7 @@ There are some cases where a specialised technology is the right choice because 
 .. may::
 
    When a case can be made that specialised technology is the best fit for solving
-   a speficic technical problem, an agency may chose to use that technology over
+   a specific technical problem, an agency may chose to use that technology over
    adopting a more ubiquitous standard.
 
 .. should::
